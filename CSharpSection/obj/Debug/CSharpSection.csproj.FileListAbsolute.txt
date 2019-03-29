@@ -1,0 +1,7 @@
+C:\Users\akinmejiwaa\source\repos\CSharpSection\CSharpSection\bin\Debug\CSharpSection.exe.config
+C:\Users\akinmejiwaa\source\repos\CSharpSection\CSharpSection\bin\Debug\CSharpSection.exe
+C:\Users\akinmejiwaa\source\repos\CSharpSection\CSharpSection\bin\Debug\CSharpSection.pdb
+C:\Users\akinmejiwaa\source\repos\CSharpSection\CSharpSection\obj\Debug\CSharpSection.csprojAssemblyReference.cache
+C:\Users\akinmejiwaa\source\repos\CSharpSection\CSharpSection\obj\Debug\CSharpSection.csproj.CoreCompileInputs.cache
+C:\Users\akinmejiwaa\source\repos\CSharpSection\CSharpSection\obj\Debug\CSharpSection.exe
+C:\Users\akinmejiwaa\source\repos\CSharpSection\CSharpSection\obj\Debug\CSharpSection.pdb
